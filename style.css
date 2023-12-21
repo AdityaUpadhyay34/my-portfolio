@@ -1,0 +1,13 @@
+*{
+   
+    box-sizing: border-box;
+    text-decoration: none;
+    background: transparent;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+body{
+    background:linear-gradient(rgba(233, 5, 5, 0.752),rgba(10, 10, 216, 0.621)) ;
+    color: white;
+    overflow: hidden;
+    overflow-y: scroll;
+}

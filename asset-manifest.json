@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.8be8080a.css",
+    "main.js": "/react-gh-pages/static/js/main.17578e43.js",
+    "static/media/python-language-logo.png": "/react-gh-pages/static/media/python-language-logo.2201ac5d09980025d104.png",
+    "static/media/portfolio-6.png": "/react-gh-pages/static/media/portfolio-6.4a10fac7d271e87859e9.png",
+    "static/media/portfolio-2.png": "/react-gh-pages/static/media/portfolio-2.33d06b368b4e6395030e.png",
+    "static/media/portfolio-4.png": "/react-gh-pages/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
+    "static/media/portfolio-1.png": "/react-gh-pages/static/media/portfolio-1.b33adf772d54ab33e953.png",
+    "static/media/portfolio-5.png": "/react-gh-pages/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
+    "static/media/java (1).png": "/react-gh-pages/static/media/java (1).dcbb5f1167ed471f5f94.png",
+    "static/media/portfolio-3.png": "/react-gh-pages/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
+    "static/media/aditya.png": "/react-gh-pages/static/media/aditya.e0b3bf3834da95fcbf06.png",
+    "static/media/ui-design.png": "/react-gh-pages/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/react-gh-pages/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.8be8080a.css.map": "/react-gh-pages/static/css/main.8be8080a.css.map",
+    "main.17578e43.js.map": "/react-gh-pages/static/js/main.17578e43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8be8080a.css",
+    "static/js/main.17578e43.js"
+  ]
+}
